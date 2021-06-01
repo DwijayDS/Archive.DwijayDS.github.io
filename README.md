@@ -1,5 +1,7 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Personal Website
 
-> https://dwijayds.github.io
+Continuously updated with paper reviews on the blog page
 
+Home Page : https://dwijayds.github.io/
+
+Blog Page : https://dwijayds.github.io/blog/main.html
